@@ -3,6 +3,9 @@ var playlist = {
   song: 'Lost in the Echo'
 }
 
-function updatePlaylist(playlist, artistName, songTitle) {
+function updatePlaylist(playlist, artistName, songTitle)
+ { 
+var updatePlaylist = {
+}
  
 }
