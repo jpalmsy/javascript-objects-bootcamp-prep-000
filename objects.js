@@ -4,6 +4,8 @@ var playlist = {
 }
 
 var updatePlaylist = {
-  playlist: 'Roma',
+  artistName: 'Forza',
+  songTitle: 'AS Roma',
+  playlist: 'Roma'
 }
   updatePlaylist['artistName']
