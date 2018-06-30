@@ -6,6 +6,9 @@ var playlist = {
 function updatePlaylist(playlist, artistName, songTitle)
  { 
 var updatePlaylist = {
+  artistName: 'Forza',
+  songTitle: 'AS Roma',
+  playlist: 'Roma'
 }
  
 }
