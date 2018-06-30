@@ -3,7 +3,7 @@ var playlist = {
   song: 'Lost in the Echo'
 }
 
-var updateplaylist = {
+var updatePlaylist = {
   playlist: 'Roma',
 }
-  updateplaylist['artistName']
+  updatePlaylist['artistName']
