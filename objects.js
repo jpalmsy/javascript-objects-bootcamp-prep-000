@@ -5,12 +5,6 @@ var playlist = {
 
 function updatePlaylist(playlist, artistName, songTitle)
  { 
-var updatePlaylist = {
-  playlist: 'Roma'
+playlist[artist] = song
+return updatePlaylist
 }
-
-updatePlaylist ['artistName'] = 'Joey'
-updatePlaylist ['songTitle'] = 'ASR'
-
-}
-
