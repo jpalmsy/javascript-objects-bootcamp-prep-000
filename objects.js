@@ -11,4 +11,7 @@ var updatePlaylist = {
   playlist: 'Roma'
 }
 
+updatePlaylist ['artistName'] = 'Joey'
+
 }
+
